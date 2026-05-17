@@ -129,7 +129,7 @@ library-management-system/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/desu58674git/library-management-system.git
 cd library-management-system
 ```
 
